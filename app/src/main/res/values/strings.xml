@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barber Shop</string>
+    <string name="error_name">Favor preencher o campo nome!</string>
+    <string name="error_password">Favor preencher o campo senha!</string>
+    <string name="invalid_password">A senha precisa ter no mínimo 6 dígitos!</string>
+    <string name="barber_shop">Barber Shop</string>
+</resources>
